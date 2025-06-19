@@ -18,8 +18,5 @@ Upcoming chapters:
 - **Complex Integration**
 - **Analytic Functions as Infinite Series**
 
-### 🛠 Tools used
-Written in LaTeX, using `lmodern` for the text and visuals made with Desmos, GeoGebra, and some hand-tuned figures.
-
 📄 **[View the PDF here →](https://github.com/4M0D/Exploring-The-Unreal/blob/0c6e2e9e73c4791fe6c508adfb774c6c0603dfad/exploringtheunreal.pdf)**
 
