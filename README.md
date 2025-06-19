@@ -7,7 +7,7 @@ We often meet complex numbers in high school, but rarely do we explore their fun
 **Exploring the Unreal** is a compact re-articulation of the ideas in *Fundamentals of Complex Analysis* by Saff & Snider. It closely follows the structure of that text but expresses the material in my own words — focusing on clarity, visual understanding, and the reasoning behind key results. 
 
 ### Should you read it?
-This text assumes familiarity with basic single-variable calculus of real functions — since that’s the natural gateway to calculus on complex-valued functions. Earlier exposure to epsilon-delta limits and intuitive vector calculus (like in *Div, Grad, Curl and All That* by H.M. Schey) helped me while writing, but I’ve done my best not to make them essential for enjoying the material.
+This text assumes familiarity with basic single-variable calculus of real functions , since that’s the natural gateway to calculus on complex-valued functions. Earlier exposure to epsilon-delta limits and intuitive vector calculus (like in *Div, Grad, Curl and All That* by H.M. Schey) helped me while writing, but I’ve done my best not to make them essential for enjoying the material.
 
 ### 📘 Topics covered so far
 - **Complex Numbers**: origin, representation, roots, and geometry
