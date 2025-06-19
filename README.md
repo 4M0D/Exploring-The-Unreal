@@ -4,7 +4,7 @@
 
 We often meet complex numbers in high school, but rarely do we explore their functions the way we do with real ones. Euler’s formula is usually as far as we go — beautiful, but a little mysterious. This project is an attempt to go deeper and make sense of complex functions, extending the lens of calculus.
 
-**Exploring the Unreal** is a compact re-articulation of the ideas in *Fundamentals of Complex Analysis* by Saff & Snider. It closely follows the structure of that text but expresses the material in my own words — focusing on clarity, visual understanding, and the reasoning behind key results. Some exercises and formalities are skipped in favor of a more direct flow. It's meant for fellow students, especially those just stepping into the subject.
+**Exploring the Unreal** is a compact re-articulation of the ideas in *Fundamentals of Complex Analysis* by Saff & Snider. It closely follows the structure of that text but expresses the material in my own words — focusing on clarity, visual understanding, and the reasoning behind key results. It's meant for fellow students, especially those just stepping into the subject.
 
 ### Should you read it?
 This text assumes familiarity with basic single-variable calculus of real functions — since that’s the natural gateway to calculus on complex-valued functions. Earlier exposure to epsilon-delta limits and intuitive vector calculus (like in *Div, Grad, Curl and All That* by H.M. Schey) helped me while writing, but I’ve done my best not to make them essential for enjoying the material.
