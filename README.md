@@ -1,6 +1,6 @@
 # Exploring The Unreal
 
-*A student-made guide to complex analysis — clear, concise, and curiosity-driven.*
+*A student-made guide to complex analysis — clear and concise*
 
 We often meet complex numbers in high school, but rarely do we explore their functions the way we do with real ones. Euler’s formula is usually as far as we go — beautiful, but a little mysterious. This project is an attempt to go deeper and make sense of complex functions, extending the lens of calculus.
 
