@@ -18,5 +18,9 @@ Upcoming chapters:
 - **Complex Integration**
 - **Analytic Functions as Infinite Series**
 
+## License
+This project is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
+It includes adapted content (e.g., images and proofs) licensed under the same terms.
+
 📄 **[View the PDF here →](https://github.com/4M0D/Exploring-The-Unreal/blob/0c6e2e9e73c4791fe6c508adfb774c6c0603dfad/exploringtheunreal.pdf)**
 
