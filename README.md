@@ -18,7 +18,7 @@ Upcoming chapters:
 - **Complex Integration**
 - **Analytic Functions as Infinite Series**
 
-## License
+### License
 This project is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
 It includes adapted content (e.g., images and proofs) licensed under the same terms.
 
