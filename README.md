@@ -1,8 +1,6 @@
 # Exploring The Unreal
 
-*A student-made guide to complex analysis — clear and concise*
-
-We often meet complex numbers in high school, but rarely do we explore their functions the way we do with real ones. Euler’s formula is usually as far as we go — beautiful, but a little mysterious. This project is an attempt to go deeper and make sense of complex functions, extending the lens of calculus.
+We often meet complex numbers in high school, but rarely do we explore their functions the way we do with real ones. This text is an attempt to go deeper and make sense of complex functions, extending the lens of calculus.
 
 **Exploring the Unreal** is a compact re-articulation of the ideas in *Fundamentals of Complex Analysis* by Saff & Snider. It closely follows the structure of that text but expresses the material in my own words — focusing on clarity, visual understanding, and the reasoning behind key results. 
 
