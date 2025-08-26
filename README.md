@@ -6,15 +6,17 @@ We often meet complex numbers in high school, but rarely do we explore their fun
 
 ### Should you read it?
 This text assumes familiarity with basic single-variable calculus of real functions , since that’s the natural gateway to calculus on complex-valued functions. Earlier exposure to epsilon-delta limits and intuitive vector calculus (like in *Div, Grad, Curl and All That* by H.M. Schey) helped me while writing, but I’ve done my best not to make them essential for enjoying the material.
-
 ### 📘 Topics covered so far
-- **Complex Numbers**: origin, representation, roots, and geometry
-- **Towards Complex Calculus**: limits, differentiability, Cauchy-Riemann equations, and harmonic functions
-- **Elementary Functions**: polynomials, rational functions, exponentials, trigonometric and logarithmic functions
+- **Complex Numbers**: origins, point representation, roots, exponential form, and geometry of sets  
+- **Towards Complex Calculus**: functions of a complex variable, the Riemann sphere, limits & continuity, complex differentiation, Cauchy–Riemann equations, and harmonic functions  
+- **Elementary Functions**: polynomials, rational functions, exponential, trigonometric, hyperbolic, and logarithmic functions, along with complex exponentiation and inverse trig functions  
+- **Complex Integration**: contours and contour integrals, independence of path, Cauchy’s Integral Theorem (vector analysis and deformation approaches), Cauchy’s Integral Formula, bounds on analytic functions, and applications to harmonic functions  
+### 📝 Currently in progress
+- **Series Representations for Analytic Functions**: sequences and series, Taylor and power series, convergence criteria, and related insights  
 
-Upcoming chapters:
-- **Complex Integration**
-- **Analytic Functions as Infinite Series**
+### 🔮 Upcoming sections
+- **Laurent series**  
+- **Further insights on convergence and residues**
 
 ### License
 This project is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
