@@ -11,7 +11,7 @@ This text assumes familiarity with basic single-variable calculus of real functi
 - **Towards Complex Calculus**: functions of a complex variable, the Riemann sphere, limits & continuity, complex differentiation, Cauchy–Riemann equations, and harmonic functions  
 - **Elementary Functions**: polynomials, rational functions, exponential, trigonometric, hyperbolic, and logarithmic functions, along with complex exponentiation and inverse trig functions  
 - **Complex Integration**: contours and contour integrals, independence of path, Cauchy’s Integral Theorem (vector analysis and deformation approaches), Cauchy’s Integral Formula, bounds on analytic functions, and applications to harmonic functions  - **Series Representations for Analytic Functions**: sequences and series, Taylor and power series, convergence criteria, and related insights.
-- 
+  
 ### 📝 Currently in progress
 - **Laurent series**  
 - **Further insights on convergence and residues**
